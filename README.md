@@ -13,5 +13,5 @@ I'm **Sarrah Ibrahem**, a **data analyst** with a background in **accounting** a
 🚀 **Check out my portfolio:** [Data Analytics Portfolio](https://github.com/SarrahKIbrahem/Data-Analytics-Portfolio)  
 
 📬 **Let’s connect!**  
-- 💼 **[LinkedIn]([YOUR_LINKEDIN_PROFILE](https://www.linkedin.com/in/sarrahkibrahem?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]))**  
+- 💼 **[LinkedIn][My Profile](https://www.linkedin.com/in/sarrahkibrahem?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)**  
 - 📧 **Email:** Sarrahki25@gmail.com  
