@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Alt Text](IMG_1503.jpg)
+
 I'm **Sarrah Ibrahem**, a **data analyst** with a background in **accounting** and a passion for transforming data into actionable insights. My expertise lies in **SQL, Python, and Tableau**, and I enjoy uncovering patterns in data to drive strategic decision-making.  
 
 🔍 **I specialize in:**  
